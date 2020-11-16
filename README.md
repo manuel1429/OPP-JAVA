@@ -1,2 +1,2 @@
 # OPP-JAVA
-- Ejercicios de java usando la programacion orientada a objetos.
+- Ejercicios de java usando la programación orientada a objetos.
